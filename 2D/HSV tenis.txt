@@ -1,0 +1,2 @@
+(imgHSV, Scalar(24, 80, 80), Scalar(40, 255, 255), imgContour);
+(imgHSV, Scalar(42, 65, 80), Scalar(60, 255, 255), imgContour);
